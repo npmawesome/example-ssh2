@@ -1,0 +1,9 @@
+{
+  "name": "example-ssh2",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "ssh2": "^0.3.6"
+  }
+}
